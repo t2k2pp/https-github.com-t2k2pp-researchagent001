@@ -1,0 +1,5 @@
+{
+  "name": "DeepSeek Research Agent",
+  "description": "An AI-powered agent for deep information research, collection, and curation. It uses multiple Gemini models to plan, search the web for up-to-date information, and synthesize detailed reports on complex topics, complete with a conversational chatbot for follow-up questions.",
+  "requestFramePermissions": []
+}
